@@ -401,13 +401,4 @@ Results are printed to terminal and saved to `app/rag_eval_results.json`
 
 ---
 
-## 📞 Contact
-
-**K Venkata Viswadhar**
-
-GitHub: [@viswadhar88]([https://github.com/viswadhar88](https://github.com/viswadhar88))
-
-Project Link: [https://github.com/viswadhar88/Document-based-Q-A-system](https://github.com/viswadhar88/Document-based-Q-A-system)
-
----
 
